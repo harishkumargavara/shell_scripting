@@ -1,1 +1,1 @@
-# shell_scripting
+scripts for shell beginers 
